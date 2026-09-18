@@ -148,7 +148,7 @@ textarea {
 .header-actions {
   display: flex;
   align-items: center;
-  gap: 0.7rem;
+  gap: 0.4rem;
 }
 
 .lang-toggle {
@@ -171,7 +171,7 @@ textarea {
   color: #111;
 }
 
-.tiktok-link {
+.social-link {
   width: 36px;
   height: 36px;
   display: grid;
@@ -179,6 +179,12 @@ textarea {
   border: 1px solid var(--line);
   border-radius: 50%;
   color: var(--gold);
+}
+
+.social-link:hover,
+.social-link:focus-visible {
+  color: var(--gold-bright);
+  border-color: var(--gold);
 }
 
 .menu-toggle {
@@ -423,6 +429,13 @@ h2 {
   color: var(--muted);
 }
 
+.about-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  margin-top: 0.4rem;
+}
+
 .about-photos {
   display: grid;
   gap: 0.8rem;
@@ -524,7 +537,14 @@ h2 {
   margin: 0;
 }
 
-.footer-tiktok {
+.footer-socials {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.1rem;
+  justify-content: center;
+}
+
+.footer-socials a {
   color: var(--gold);
 }
 
