@@ -88,7 +88,7 @@ const I18N = {
     heroSecondary: "Place an order",
     menuEyebrow: "The collection",
     menuTitle: "Our cakes",
-    menuLead: "Thirty-six cakes across six categories. Prices are in Polish złoty (PLN).",
+    menuLead: "Thirty-six cakes across six categories. Prices are in Ethiopian birr (ETB).",
     resultCount: (n) => (n === 1 ? "1 cake" : `${n} cakes`),
     galleryEyebrow: "Recent work",
     galleryTitle: "Gallery",
@@ -131,7 +131,7 @@ const I18N = {
     heroSecondary: "ትዕዛዝ ያስቀምጡ",
     menuEyebrow: "ስብስብ",
     menuTitle: "ኬኮቻችን",
-    menuLead: "ሠላሳ ስድስት ኬኮች በስድስት ምድቦች። ዋጋዎች በፖሊሽ ዝሎቲ (PLN) ናቸው።",
+    menuLead: "ሠላሳ ስድስት ኬኮች በስድስት ምድቦች። ዋጋዎች በኢትዮጵያዊ ብር (ETB) ናቸው።",
     resultCount: (n) => `${n} ኬኮች`,
     galleryEyebrow: "የቅርብ ጊዜ ሥራዎች",
     galleryTitle: "ማዕከለ-ሥዕል",
@@ -172,7 +172,7 @@ function t(key) {
 }
 
 function formatPrice(price) {
-  return `${price.toLocaleString("en-US")} PLN`;
+  return `${price.toLocaleString("en-US")} ETB`;
 }
 
 function productName(product) {
