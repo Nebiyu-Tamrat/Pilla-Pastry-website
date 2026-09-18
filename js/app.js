@@ -1,4 +1,4 @@
-const IMG = (file) => encodeURI(`Sample cake images/${file}`);
+const IMG = (file) => encodeURI(`Sample-cake-images/${file}`);
 
 const CATEGORIES = [
   { id: "all", en: "All", am: "ሁሉም" },
