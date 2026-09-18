@@ -1,0 +1,54 @@
+CAKE PRODUCT TABLE
+==================
+
++----+-------------------------------+---------------------+-------------+---------------+
+| #  | Cake / Product Name           | Product Category    | Price (PLN) | Product Image |
++----+-------------------------------+---------------------+-------------+---------------+
+| 1  | Royal Rose Elegance           | Wedding Cake        | 850         | Image 1       |
+| 2  | Golden Pearl Wedding Cake     | Wedding Cake        | 1,200       | Image 2       |
+| 3  | White Velvet Romance          | Wedding Cake        | 950         | Image 3       |
+| 4  | Crystal Garden Cake           | Wedding Cake        | 1,350       | Image 4       |
+| 5  | Classic Ivory Wedding Cake    | Wedding Cake        | 750         | Image 5       |
+| 6  | Royal Three-Tier Cake         | Wedding Cake        | 1,500       | Image 6       |
+| 7  | Chocolate Celebration         | Birthday Cake       | 180         | Image 7       |
+| 8  | Strawberry Dream              | Birthday Cake       | 220         | Image 8       |
+| 9  | Rainbow Party Cake            | Birthday Cake       | 200         | Image 9       |
+| 10 | Chocolate Fudge Birthday Cake | Birthday Cake       | 240         | Image 10      |
+| 11 | Vanilla Birthday Delight      | Birthday Cake       | 160         | Image 11      |
+| 12 | Confetti Celebration Cake     | Birthday Cake       | 190         | Image 12      |
+| 13 | Vanilla Garden Cake           | Casual Cake         | 140         | Image 13      |
+| 14 | Classic Chocolate Cake        | Casual Cake         | 150         | Image 14      |
+| 15 | Lemon Cream Cake              | Casual Cake         | 155         | Image 15      |
+| 16 | Caramel Delight Cake          | Casual Cake         | 170         | Image 16      |
+| 17 | Coconut Dream Cake            | Casual Cake         | 160         | Image 17      |
+| 18 | Blueberry Cream Cake          | Casual Cake         | 180         | Image 18      |
+| 19 | Grand Celebration Cake        | Event Cake          | 450         | Image 19      |
+| 20 | Corporate Prestige Cake       | Event Cake          | 550         | Image 20      |
+| 21 | Elegant Gala Cake             | Event Cake          | 600         | Image 21      |
+| 22 | Anniversary Celebration Cake  | Event Cake          | 400         | Image 22      |
+| 23 | Luxury Dessert Cake           | Event Cake          | 500         | Image 23      |
+| 24 | Grand Chocolate Event Cake    | Event Cake          | 650         | Image 24      |
+| 25 | Christmas Snow Cake           | Holiday Cake        | 280         | Image 25      |
+| 26 | Winter Wonderland Cake        | Holiday Cake        | 320         | Image 26      |
+| 27 | Easter Garden Cake            | Holiday Cake        | 250         | Image 27      |
+| 28 | New Year Celebration Cake     | Holiday Cake        | 350         | Image 28      |
+| 29 | Valentine's Heart Cake        | Holiday Cake        | 290         | Image 29      |
+| 30 | Halloween Mystery Cake        | Holiday Cake        | 270         | Image 30      |
+| 31 | Photo Memory Cake             | Custom Image Cake   | 300         | Image 31      |
+| 32 | Personalized Portrait Cake    | Custom Image Cake   | 350         | Image 32      |
+| 33 | Family Photo Celebration Cake | Custom Image Cake   | 380         | Image 33      |
+| 34 | Custom Logo Cake              | Custom Image Cake   | 320         | Image 34      |
+| 35 | Cartoon Character Cake        | Custom Image Cake   | 280         | Image 35      |
+| 36 | Premium Custom Photo Cake     | Custom Image Cake   | 450         | Image 36      |
++----+-------------------------------+---------------------+-------------+---------------+
+
+CATEGORIES
+==========
+Wedding Cake:      6 products
+Birthday Cake:     6 products
+Casual Cake:       6 products
+Event Cake:        6 products
+Holiday Cake:      6 products
+Custom Image Cake: 6 products
+
+Total: 36 cake products.
